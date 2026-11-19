@@ -1,5 +1,9 @@
 ## World Cup Database Project
 
+Utilized skills in:
+* PostgreSQL
+* Bash
+
 Use automated script to insert data into database relating to World Cup games including:
 * Winning VS. Losing Teams
 * Year of World Cup
@@ -11,7 +15,3 @@ Analyze data to find complex patterns such as:
 * Most/least goals scored by game/team
 * Teams with highest winning %
 * etc.
-
-Utilized skills in:
-* PostgreSQL
-* Bash
