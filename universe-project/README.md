@@ -1,4 +1,4 @@
-## World Cup Database Project
+## Universe Database Project
 
 Initial SQL Database project. Familiarizing with database and table creation, and data manipulation.
 
