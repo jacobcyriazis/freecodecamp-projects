@@ -10,3 +10,4 @@ Utilized skills in:
 Project Highlights:
 * Utilize Git in preparation for proper version control work amongst a team
 * Advanced data cleaning / manipulation to ensure normal form adherence
+* Create script for easy query from users, cleaning input and cleaning output
