@@ -1,5 +1,7 @@
 ## World Cup Database Project
 
+Database and data analysis project.
+
 Utilized skills in:
 * PostgreSQL
 * Bash
